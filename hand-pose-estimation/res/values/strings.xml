@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hand pose estimation</string>
+    <string name="min_treshold">Min threshold </string>
+    <string name="max_treshold">Max threshold </string>
+</resources>
